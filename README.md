@@ -46,8 +46,3 @@ to run the website
 - [Link](https://app.gemoo.com/share/home?codeId=DGqYlGLnkA62E)
 
 
-https://github.com/harsh-sangwan2003/Edge-Ledger-Website/assets/84121947/69562c24-64cd-4353-a3f1-62f30f4607f2.mp4
-
-
-
-
