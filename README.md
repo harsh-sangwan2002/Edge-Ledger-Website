@@ -8,6 +8,11 @@ A quick guide to my Project ->
 
 <img src ="/image.webp">
 
+## Description
+- Designed a modern, responsive interface, delivering a smooth and visually appealing user experience for seamless navigation.
+- Built interactive features using HTML5, CSS3, and JavaScript, optimizing functionality and user engagement.
+- Integrated Lightbox for enhanced media display, creating an intuitive platform for showcasing visual content effectively.
+
 ## Tools Used
 
 - HTML5
@@ -28,11 +33,6 @@ Please include the following cdn link tags before testing the website
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"
             integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 ``` 
-
-
-## Usage
-
-This is a website for fictional financial company.
 
 Click on
 
